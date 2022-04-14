@@ -291,6 +291,15 @@ padding-left:15px;
 .text-mob {
   font-size: 25px;
 }
+
+h2{
+  font-size: 18px !important;
+
+}
+h1{
+  font-size:20px !important;
+
+}
 .space_right{
 padding-right:15px; 
 } 
